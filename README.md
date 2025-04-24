@@ -37,7 +37,7 @@ This project explores Airbnb listings in Los Angeles with the dual goal of forec
 ## 📁 Deliverables
 
 - `AirBnB Post Covid-Sentiment Analysis.pdf` – Final report  
-- `AirBnB Post Covid.pdf` – Final report   
+- `AirBnB Pre & Post Covid Trend Findings.pdf` – Final report   
 
 ---
 
