@@ -1,7 +1,5 @@
-# AirBnB
 
-# 🏡 Airbnb LA Insights: Forecasting Prices & Understanding Guest Satisfaction  
-**DSO 574 Project – Spring 2025**  
+# 🏡 Airbnb LA Insights: Analyzing Demand Shifts Pre- and Post-COVID & the Role of Property Descriptions 
 **Tools:** Python | Pandas | NumPy | Statsmodels | Scikit-learn | Seaborn | Matplotlib | TextBlob
 
 This project explores Airbnb listings in Los Angeles with the dual goal of forecasting average listing prices and identifying key factors that influence guest satisfaction. Leveraging a blend of time series modeling, regression analysis, and data visualization, we provide actionable insights for hosts and platforms alike.
